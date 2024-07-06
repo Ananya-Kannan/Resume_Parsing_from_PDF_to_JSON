@@ -1,0 +1,2 @@
+I want to parse a resume from a PDF file into structured JSON format using Python. The resume includes sections like contact information, education, experience, skills, among other details. Provide a Python script that accomplishes this task to extract email and phone number, skills, education and experience details.
+
